@@ -1,6 +1,6 @@
 package Liczby;
 
-public class Main {
+public class Liczby {
     public static void main(String[] args) {
         int n = 90;
         int last = 0;
